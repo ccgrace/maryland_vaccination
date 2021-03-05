@@ -10,7 +10,7 @@ Purpose/Scope:
 3. Identify vaccination sites based on a given address within MD.
 4. Identify the top vaccine providers within the state of MD."
 
-Summary:	Our project intends to uncover a resident's ability to access the COVID-19 vaccines currently available in Maryland. The vaccines currently administered are Pfizer, Moderna, and Johnson & Johnson. Maryland is currently reporting a dosage rate of $0.7% among is 6,046 million residents. We will evaluate availability, identify sites per location, and site providers within Maryland per our selected data sources.
+Summary:	Our project intends to uncover a resident's ability to access the COVID-19 vaccines currently available in Maryland. The vaccines currently administered are Pfizer, Moderna, and Johnson & Johnson. Maryland is currently reporting a dosage rate of $0.7% among its 6,046 million residents. We will evaluate availability, identify sites per location, and site providers within Maryland per our selected data sources.
 
 Data Source:	
 Google API
