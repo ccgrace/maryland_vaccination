@@ -19,6 +19,8 @@ Core Message:
 
 Our project intends to uncover a resident's ability to access the COVID-19 vaccines currently available in Maryland. The vaccines currently administered are Pfizer, Moderna, and Johnson & Johnson. Maryland is currently reporting a dosage rate of $0.7% among its 6,046 million residents. We will evaluate availability, identify sites per location, and site providers within Maryland per our selected data sources.
 
+![alt text](https://github.com/ccgrace/maryland_vaccination/blob/main/ReadMe%20Images/TtileImage_1.png?raw=true)
+
 Data Source:
 Coronavirus - Maryland Department of Health - https://coronavirus.maryland.gov/#Vaccine
 coronavirus.maryland.gov
@@ -31,6 +33,7 @@ State-by-state data on COVID-19 vaccinations in the United States = https://ourw
 
 The United States Census Bureau - https://www.census.gov/data/developers/data-sets/popest-popproj/popest.Vintage_2019.html
 
+![alt text](https://github.com/ccgrace/maryland_vaccination/blob/main/ReadMe%20Images/TitleImage_3.png?raw=true)
 
 Visualization Tools:
 Gmaps
@@ -68,3 +71,8 @@ Overall, we were satisfied with the results of data analysis and supporting visu
 In comparison to other states, Maryland is in the top 50% of states/territories in regard to vaccines administered. The best performing counties within Maryland are Montgomery, Baltimore County, and Prince George’s County. Maryland has received 2,390,890 vaccines and administered 1,812,309 giving it an average daily rate of 27,495 vaccines being administered daily. To date, approximately, 10% of Maryland is fully vaccinated. Our predication is that Maryland will be at 25% vaccinated by June 2021 (188 days after 1st vaccine) and 50% in February 2022 (414 days after 1st vaccine.
 
 Additionally, we created a ‘Site Locator Tool’ within our code through the use of Gmaps, which can identify the nearest vaccination site when a Maryland address is submitted. Lastly, we feel that Maryland has sufficiently and timely administered the vaccines provided. Our projections are consistent with the US presidential va
+
+
+
+
+![alt text](https://github.com/ccgrace/maryland_vaccination/blob/main/Output_Data/Vaccionation_places_map.PNG?raw=true)
