@@ -1,4 +1,6 @@
 # maryland_vaccination
+![Title_image](/ReadMe Images/TtileImage_1.png) 
+
 
 Project 1 Proposal and Summary
 
