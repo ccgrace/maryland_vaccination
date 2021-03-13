@@ -1,5 +1,5 @@
 # maryland_vaccination
-![Title_image](/ReadMe Images/TtileImage_1.png) 
+![alt text](https://github.com/ccgrace/maryland_vaccination/blob/main/ReadMe%20Images/TitleImage_2.png?raw=true)
 
 
 Project 1 Proposal and Summary
